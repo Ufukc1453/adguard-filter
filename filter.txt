@@ -299,3 +299,4 @@
 ||binance.com^
 ||binance.tr^
 ||turkiye.gov.tr^
+||armutmarketi.online^
