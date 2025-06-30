@@ -301,3 +301,4 @@
 ||turkiye.gov.tr^
 ||armutmarketi.online^
 ||aaa.hmdns.top^
+||fusu.cc^
