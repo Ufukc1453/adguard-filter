@@ -302,3 +302,4 @@
 ||armutmarketi.online^
 ||aaa.hmdns.top^
 ||fusu.cc^
+||cfpro.ru
