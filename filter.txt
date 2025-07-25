@@ -311,3 +311,4 @@
 ||xxx.heimaoip.com^
 ||ssportplus.com^
 ||hbtbank.com^
+||mc-tr.site^
