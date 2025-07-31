@@ -313,3 +313,4 @@
 ||hbtbank.com^
 ||mc-tr.site^
 ||tvplus.com.tr^
+||todtv.com.tr^
