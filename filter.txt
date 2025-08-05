@@ -314,3 +314,4 @@
 ||mc-tr.site^
 ||tvplus.com.tr^
 ||todtv.com.tr^
+||parafly.com.tr^
