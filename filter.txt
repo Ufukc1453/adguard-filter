@@ -316,3 +316,4 @@
 ||todtv.com.tr^
 ||parafly.com.tr^
 ||grass.io^
+||binance.info^
