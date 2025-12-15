@@ -390,3 +390,4 @@
 ||qsc-shop.ru^
 ||planete-carpe.com^
 ||sikelocci.com^
+||v2z.ru^
